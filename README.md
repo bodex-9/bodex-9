@@ -1,240 +1,247 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=20B2A6&height=180&section=header&text=Abdullah%20Mhrous&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36" width="100%" alt="Abdullah Mhrous header"/>
+
 👋 Hi, I'm Abdullah Mhrous
 
-Frontend React Developer | Computer Science Student | DEPI Full Stack .NET Trainee
+Frontend React Developer • Computer Science Student • DEPI Full Stack .NET Trainee
 
 <p>
   <a href="https://github.com/bodex-9">
-    <img src="https://img.shields.io/github/followers/bodex-9?label=Followers&style=for-the-badge&logo=github&logoColor=white" alt="GitHub Followers"/>
-  </a>
-  <a href="https://github.com/bodex-9?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-Explore-blue?style=for-the-badge&logo=github" alt="Repositories"/>
+    <img src="https://img.shields.io/badge/GitHub-bodex--9-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://www.linkedin.com/in/abdullah-mhrous-70805a389">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+  <a href="mailto:abdullahmhrous15@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </p>
 
-<img
-src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=20B2A6&center=true&vCenter=true&width=760&lines=Building+responsive+React+applications;Turning+Figma+designs+into+clean+UIs;React+%7C+TypeScript+%7C+Tailwind+%7C+Redux;Learning+Next.js+and+Full+Stack+.NET"
-alt="Typing animation"
-/>
-
-<br/>
-
-<img
-src="https://capsule-render.vercel.app/api?type=waving&color=20B2A6&height=120&section=header"
-width="100%"
-alt="Decorative animated header"
-/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=20B2A6&center=true&vCenter=true&width=820&lines=Frontend+React+Developer;Building+responsive+modern+web+apps;React+%7C+TypeScript+%7C+Redux+Toolkit;Tailwind+CSS+%7C+Firebase+%7C+REST+APIs;Learning+Next.js+%26+Full+Stack+.NET" alt="Typing animation"/>
 
 </div>
 
-🚀 About Me
+🧑‍💻 About Me
 
-I'm a Computer Science student at Kafr El-Sheikh University and a Frontend React Developer focused on building modern, responsive, and user-friendly web applications.
+I'm a Computer Science student at Kafr El-Sheikh University and a Frontend React Developer who enjoys turning ideas and Figma designs into clean, responsive, and interactive web applications.
 
-I enjoy turning ideas and Figma designs into polished interfaces, connecting them to APIs, managing application state, and improving the overall user experience.
+I focus on building practical projects with React, TypeScript, Redux Toolkit, Tailwind CSS, Firebase, REST APIs, and modern frontend patterns.
 
-Currently, I'm expanding my skills through Next.js and the DEPI Full Stack .NET track, while continuing to build real-world projects and strengthen my problem-solving skills.
+Currently, I'm deepening my knowledge of Next.js and developing my backend skills through the DEPI Full Stack .NET track.
 
-Frontend
-├── React.js
-├── TypeScript
-├── JavaScript
-├── Tailwind CSS
-├── Bootstrap
-├── Material UI
-└── Responsive UI
+What I care about
 
-Application Development
-├── Redux Toolkit
-├── Firebase
-├── REST APIs
-├── Axios
-├── React Router
-├── LocalStorage
-└── Form / Auth flows
+✨ Clean & reusable components
+📱 Responsive UI / UX
+⚡ Smooth user experience
+🔐 Authentication & protected routes
+🌐 API integration
+🧠 State management
+🛠️ Debugging & problem solving
+🚀 Continuous learning
 
-Tools
-├── Git & GitHub
-├── Figma
-├── VS Code
-├── Vercel
-└── Netlify
-
-Learning
-├── Next.js
-└── Full Stack .NET
-
-🧰 Tech Stack
+🛠️ Tech Stack
 
 <div align="center">
 
 Frontend
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap,mui" alt="Frontend Skills"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap,mui" alt="Frontend technologies"/>
 
-Backend / Data / Learning
+Backend / Data
 
-<img src="https://skillicons.dev/icons?i=firebase,dotnet,cs,cpp,sql,nextjs" alt="Backend and Learning Skills"/>
+<img src="https://skillicons.dev/icons?i=dotnet,cs,firebase,sql,cpp" alt="Backend and data technologies"/>
 
 Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,figma,vscode,vercel,netlify" alt="Tools"/>
+<img src="https://skillicons.dev/icons?i=git,github,figma,vscode,vercel,netlify" alt="Development tools"/>
 
 </div>
 
-💻 Featured Projects
+🚀 Featured Projects
 
-🛒 Exclusive — E-Commerce Platform
+<table>
+<tr>
+<td width="50%">
 
-A complete e-commerce application built with React and Firebase, focused on authentication, product discovery, cart/wishlist functionality, and a polished responsive UI.
+🛒 Exclusive — E-Commerce
 
-Highlights
+A full e-commerce experience built with React and Firebase.
 
-🔐 Firebase Authentication: Email/Password + Google Login
+Core features
 
-🔥 Firebase Firestore integration
+🔐 Google + Email authentication
 
-🛍️ Cart & Wishlist with LocalStorage
+🔥 Firebase Auth & Firestore
 
-🔎 Search, filtering, sorting & pagination
+🛍️ Cart & Wishlist
 
-🛡️ Protected & Guest Routes
+🔎 Search / Filter / Sort
 
-📦 Product details and dynamic routing
+📄 Pagination
 
-📱 Responsive design
+🛡️ Protected & Guest routes
 
-🎨 Tailwind CSS
+💾 LocalStorage
+
+📱 Responsive UI
 
 ⚡ Redux Toolkit
 
-✨ Framer Motion
+🎬 Framer Motion
 
-🔔 Toastify & SweetAlert2
+<a href="https://exclusive77.netlify.app/">🌐 Live Demo</a> •
+<a href="https://github.com/bodex-9/e-commerce">💻 Source Code</a>
 
-<p>
-  <a href="https://exclusive77.netlify.app/">
-    <img src="https://img.shields.io/badge/Live%20Demo-Exclusive-20B2A6?style=for-the-badge&logo=netlify&logoColor=white" alt="Exclusive Live Demo"/>
-  </a>
-  <a href="https://github.com/bodex-9/e-commerce">
-    <img src="https://img.shields.io/badge/Source%20Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Exclusive Source Code"/>
-  </a>
-</p>
+</td>
 
-🍔 Burger Club — Restaurant Website
+<td width="50%">
 
-A modern restaurant experience featuring menu discovery, cart interactions, reservations, testimonials, and responsive UI.
+🍔 Burger Club — Restaurant
 
-Highlights
+A modern restaurant application focused on an interactive ordering experience.
+
+Core features
 
 🍔 Dynamic menu
 
-🛒 Cart functionality
+🔎 Menu search
 
-🔍 Menu search
+🛒 Cart
 
-📅 Reservation flow
+📅 Reservation
 
 💬 Testimonials slider
 
-🌐 MockAPI integration
+🌐 MockAPI
 
 ⚡ Redux Toolkit + createAsyncThunk
 
-🎬 Motion animations
+💾 LocalStorage
 
-💾 LocalStorage persistence
+🎬 Motion animations
 
 🎨 Tailwind CSS
 
-<a href="https://github.com/bodex-9/Burger-Club">
-  <img src="https://img.shields.io/badge/Source%20Code-Burger%20Club-181717?style=for-the-badge&logo=github&logoColor=white" alt="Burger Club Source Code"/>
-</a>
+<a href="https://github.com/bodex-9/Burger-Club">💻 Source Code</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
 
 🧠 Quiz App V2
 
-An interactive quiz application with multiple programming categories and a complete exam flow.
+Interactive programming quizzes with multiple subjects.
 
-Highlights
+Core features
 
-🧩 C++ / Java / Python quizzes
+C++ / Java / Python
 
-📊 Progress bar
+📊 Progress tracking
 
-✅ Final result screen
+✅ Result screen
 
 🔁 Repeat exam
 
-🚦 React Router
+🧭 React Router
 
 ⚡ Axios
 
 🎨 Tailwind CSS
 
-📱 Interactive quiz experience
+<a href="https://quiz-app-v2-green.vercel.app/">🌐 Live Demo</a> •
+<a href="https://github.com/bodex-9/Quiz_App_V2">💻 Source Code</a>
 
-<p>
-  <a href="https://quiz-app-v2-green.vercel.app/">
-    <img src="https://img.shields.io/badge/Live%20Demo-Quiz%20App-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Quiz App Live Demo"/>
-  </a>
-  <a href="https://github.com/bodex-9/Quiz_App_V2">
-    <img src="https://img.shields.io/badge/Source%20Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Quiz App Source Code"/>
-  </a>
-</p>
+</td>
 
-📈 GitHub Analytics
+<td width="50%">
 
-<div align="center">
+📊 Admin Dashboard
 
-<img
-src="https://github-readme-stats.vercel.app/api?username=bodex-9&show_icons=true&hide_border=true&rank_icon=github&theme=transparent"
-height="170"
-alt="GitHub Stats"
-/>
+A React + TypeScript dashboard project built with Material UI and reusable application structure.
 
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=bodex-9&layout=compact&hide_border=true&theme=transparent"
-height="170"
-alt="Top Languages"
-/>
+Highlights
 
-<br/>
+TypeScript
 
-<img
-src="https://streak-stats.demolab.com?user=bodex-9&hide_border=true&theme=transparent"
-alt="GitHub Streak"
-/>
+Material UI
 
-</div>
+Data Grid
 
-🐍 Contribution Animation
+Light / Dark themes
+
+Reusable layout
+
+Nested routing
+
+Charts & data views
+
+Scalable component structure
+
+</td>
+</tr>
+</table>
+
+📈 GitHub Activity
 
 <div align="center">
 
-<img
-src="https://raw.githubusercontent.com/bodex-9/bodex-9/output/github-contribution-grid-snake.svg"
-alt="GitHub contribution snake animation"
-/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bodex-9&hide_border=true&radius=8&area=true" width="95%" alt="GitHub activity graph"/>
 
 </div>
 
-To activate the snake animation, add a GitHub Action that generates output/github-contribution-grid-snake.svg.
+GitHub activity services can occasionally be unavailable or rate-limited. The core profile content above does not depend on them.
+
+🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg">
+  <img alt="GitHub contribution snake animation" src="github-snake.svg">
+</picture>
+
+</div>
 
 🎯 Current Focus
 
-+ React.js & TypeScript
-+ Advanced state management
-+ Clean and reusable components
-+ REST API integration
-+ Responsive UI / UX
-+ Next.js
-+ Full Stack .NET through DEPI
+<div align="center">
 
-📚 Certifications & Learning
+Area
+
+Focus
+
+⚛️ React
+
+Advanced patterns & reusable components
+
+🟦 TypeScript
+
+Better typing & scalable code
+
+🧠 State
+
+Redux Toolkit & application state
+
+🌐 APIs
+
+REST APIs & async data
+
+▲ Next.js
+
+App Router & server/client concepts
+
+🟣 .NET
+
+Full Stack development through DEPI
+
+</div>
+
+🎓 Education & Certifications
 
 🎓 B.Sc. Computer Science — Kafr El-Sheikh University | 2025–Present
 
@@ -244,34 +251,32 @@ To activate the snake animation, add a GitHub Action that generates output/githu
 
 🚀 DEPI — Full Stack .NET Track
 
-🤝 Let's Connect
+📬 Let's Connect
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/abdullah-mhrous-70805a389">
-  <img src="https://img.shields.io/badge/LinkedIn-Abdullah%20Mhrous-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-Abdullah%20Mhrous-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 <a href="mailto:abdullahmhrous15@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+<img src="https://img.shields.io/badge/Gmail-abdullahmhrous15%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 <a href="https://github.com/bodex-9">
-  <img src="https://img.shields.io/badge/GitHub-bodex--9-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub-bodex--9-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=bodex-9&style=flat-square&color=20B2A6" alt="Profile views"/>
 
 </div>
 
-<br/>
-
 <div align="center">
 
-💡 "Code. Learn. Build. Improve."
+💡 Code. Learn. Build. Improve.
 
-<img
-src="https://capsule-render.vercel.app/api?type=waving&color=20B2A6&height=100&section=footer"
-width="100%"
-alt="Decorative footer"
-/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=20B2A6&height=110&section=footer" width="100%" alt="Footer"/>
 
 </div>
