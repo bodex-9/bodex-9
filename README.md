@@ -1,13 +1,13 @@
 <table width="100%">
   <tr>
-    <td width="50%" align="center" valign="middle">
+    <td width="60%" align="center" valign="middle">
       <a href="https://git.io/typing-svg">
         <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=800&pause=1000&width=435&lines=Hello+World+!;Hi+!+I'm+Abdullah;Frontend+React+Developer" alt="Typing SVG" />
       </a>
     </td>
 
 
-<td width="50%" align="center" valign="middle">
+<td width="40%" align="center" valign="middle">
 <img width="498" height="281" alt="download" src="https://github.com/user-attachments/assets/0ca4b915-8c40-4cb7-a3ec-6332c7af51f0" />
 
 </td>
