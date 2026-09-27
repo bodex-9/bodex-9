@@ -2,7 +2,7 @@
   <tr>
     <td width="60%" align="center" valign="middle">
       <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=800&pause=1000&width=435&lines=Hello+World+!;Hi+!+I'm+Abdullah;Frontend+React+Developer" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=800&pause=1000&width=500&lines=Hello+World+!;Hi+!+I'm+Abdullah;Frontend+React+Developer" alt="Typing SVG" />
       </a>
     </td>
 
