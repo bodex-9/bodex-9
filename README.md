@@ -1,4 +1,4 @@
-<table width="100%" style="max-width: 500px; margin: 0 auto;">
+<table width="100%" style="max-width: 590px; margin: 0 auto;">
   <tr>
     <td width="55%" align="center" valign="middle">
       <a href="https://git.io/typing-svg">
