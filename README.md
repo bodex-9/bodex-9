@@ -6,7 +6,7 @@
       </a>
     </td>
     <td width="50%" align="center" valign="middle">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTYycThveTRtZm5rdHpqYWhuaDlsNDNzcWszdWZ4aDV0dzRwNnQyeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svvAQQyVY9/giphy.gif" width="100%" alt="Pixel Art Coding GIF" />
+      <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTYycThveTRtZm5rdHpqYWhuaDlsNDNzcWszdWZ4aDV0dzRwNnQyeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svvAQQyVY9/giphy.gif" width="100%" alt="Pixel Art Coding GIF" />
     </td>
   </tr>
 </table>
