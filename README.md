@@ -1,12 +1,12 @@
-<table width="100%" style="max-width: 750px; margin: 0 auto;">
+<table width="100%" style="max-width: 650px; margin: 0 auto;">
   <tr>
     <td width="55%" align="center" valign="middle">
       <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=800&size=26&height=65&width=480&pause=1000&lines=Hello+World+!;Hi+!+I'm+Abdullah+Mhrous;Frontend+React+Developer" style="max-width: 100%; height: auto;" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=800&size=22&height=60&width=400&pause=1000&lines=Hello+World+!;Hi+!+I'm+Abdullah+Mhrous;Frontend+React+Developer" style="max-width: 100%; height: auto;" alt="Typing SVG" />
       </a>
     </td>
     <td width="45%" align="center" valign="middle">
-      <img src="https://github.com/user-attachments/assets/0ca4b915-8c40-4cb7-a3ec-6332c7af51f0" style="max-width: 100%; height: auto;" alt="Coding GIF" />
+      <img src="https://github.com/user-attachments/assets/0ca4b915-8c40-4cb7-a3ec-6332c7af51f0" style="max-width: 100%; height: auto; display: block;" alt="Coding GIF" />
     </td>
   </tr>
 </table>
