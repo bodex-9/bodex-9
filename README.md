@@ -1,4 +1,5 @@
 # 👋 Hi, I'm Abdullah Mhrous
+<img src="https://c.tenor.com/GfSX-u7VGM4AAAAC/tenor.gif"/>
 
 ### 💻 Frontend React Developer | Computer Science Student | Full Stack .NET Trainee
 
