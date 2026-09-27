@@ -5,13 +5,19 @@
         <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=800&pause=1000&width=435&lines=Hello+World+!;Hi+!+I'm+Abdullah;Frontend+React+Developer" alt="Typing SVG" />
       </a>
     </td>
-    <td width="50%" align="center" valign="middle">
-      <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTYycThveTRtZm5rdHpqYWhuaDlsNDNzcWszdWZ4aDV0dzRwNnQyeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svvAQQyVY9/giphy.gif" width="100%" alt="Pixel Art Coding GIF" />
-    </td>
+
+
+<td width="50%" align="center" valign="middle">
+<img width="498" height="281" alt="download" src="https://github.com/user-attachments/assets/0ca4b915-8c40-4cb7-a3ec-6332c7af51f0" />
+
+</td>
+
+
   </tr>
 </table>
 
----
+
+-
 
 ## 💫 About Me
 
