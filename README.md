@@ -1,9 +1,7 @@
 <table width="100%">
   <tr>
     <td width="60%">
-      <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&height=100&duration=4000&pause=1000&lines=Hi+There!+👋;I'm+Abdullah+Mhrous;Frontend+React+Developer;Full+Stack+.NET+Trainee" alt="Typing SVG" />
-      </a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=800&pause=1000&width=435&lines=Hello+World+!;Hi+!+I'm+Abdullah" alt="Typing SVG" /></a>
     </td>
     <td width="40%">
       <img src="https://c.tenor.com/GfSX-u7VGM4AAAAC/tenor.gif" width="100%" alt="Coding GIF" />
