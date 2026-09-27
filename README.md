@@ -1,15 +1,15 @@
 <table width="100%" style="width: 100%; border-collapse: collapse; border: 1px solid #30363d; background-color: #0d1117;">
   <tr>
-    <td width="65%" align="left" valign="middle" style="padding: 20px;">
+    <td width="70%" align="left" valign="middle" style="padding: 20px;">
       <a href="https://git.io/typing-svg">
         <img 
-          src="https://readme-typing-svg.demolab.com?font=Poppins&weight=800&size=28&height=60&width=350&pause=1000&color=00BFFF&lines=Hello+World+!;Hi+!+I'm+Abdullah+Mhrous;Frontend+React+Developer" 
+          src="https://readme-typing-svg.demolab.com?font=Poppins&weight=800&size=26&height=60&width=420&pause=1000&color=00BFFF&lines=Hello+World+!;Hi+!+I'm+Abdullah+Mhrous;Frontend+React+Developer" 
           style="max-width: 100%; height: auto;" 
           alt="Typing SVG" 
         />
       </a>
     </td>
-    <td width="35%" align="right" valign="middle" style="padding: 10px; border-left: 1px solid #30363d;">
+    <td width="30%" align="right" valign="middle" style="padding: 10px; border-left: 1px solid #30363d;">
       <img 
         src="https://github.com/user-attachments/assets/0ca4b915-8c40-4cb7-a3ec-6332c7af51f0" 
         style="width: 100%; max-width: 300px; height: auto; display: block;" 
