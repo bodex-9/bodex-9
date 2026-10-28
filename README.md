@@ -115,7 +115,10 @@
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bodex-9&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+  <img
+    src="https://user-images.githubusercontent.com/6661165/122048400-2af46d00-ce1c-11eb-94e0-c2c6ddaf6819.png"
+    alt="GitHub Trophies"
+  />
 </p>
 
 ---
@@ -130,12 +133,7 @@
 
 ## 👀 Profile Views
 
-<p align="center">
-  <img
-    src="https://user-images.githubusercontent.com/6661165/122048400-2af46d00-ce1c-11eb-94e0-c2c6ddaf6819.png"
-    alt="GitHub Trophies"
-  />
-</p>
+
 
 ---
 
