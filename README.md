@@ -131,7 +131,10 @@
 ## 👀 Profile Views
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bodex-9&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img
+    src="https://user-images.githubusercontent.com/6661165/122048400-2af46d00-ce1c-11eb-94e0-c2c6ddaf6819.png"
+    alt="GitHub Trophies"
+  />
 </p>
 
 ---
